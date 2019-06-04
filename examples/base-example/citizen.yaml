@@ -1,0 +1,7 @@
+name: Citizen
+description: A base citizen
+base: BaseCitizen
+attributes:
+  - name: place_of_birth
+    verbose: Place of birth
+    type: Location:City
